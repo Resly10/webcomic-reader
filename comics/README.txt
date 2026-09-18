@@ -1,0 +1,1 @@
+Letakkan CBZ milik sendiri di folder ini. File besar sebaiknya disimpan di storage/CDN yang memang ditujukan untuk distribusi file.
